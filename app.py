@@ -16,7 +16,7 @@ st.set_page_config(page_title="Parivartan", layout="wide")
 
 
 with st.container():
-    st.title("PragatiSanket : A Dropout Predictive Model")
+    st.title("A Dropout Predictive Model")
     st.markdown("##### A machine learning model to address the issue of school dropouts in India. The model uses seven classification algorithms from the sklearn library to predict student dropouts. By leveraging these algorithms, educators can intervene early and provide support to at-risk students, potentially reducing dropout rates. The ultimate goal is to increase retention rates and create a more inclusive and innovative educational environment for students.")
     st.write(' ')
     st.markdown("##### Enter the following basic details to begin : ")
@@ -103,5 +103,5 @@ if submitted:
 
 st.write('')
 st.write('')
-st.write('Made with 🫶 by Dipanshu, Aditya and Anash !')
+st.write('Made with 🫶 by Tanveer & Dipanshu !')
 
